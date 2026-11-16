@@ -1,0 +1,2 @@
+.task-text { cursor: pointer; }
+.task-text.done { text-decoration: line-through; color: #888; }
